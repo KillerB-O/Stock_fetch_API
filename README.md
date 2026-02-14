@@ -183,7 +183,6 @@ GOOGL
 <p>Best suited for:</p>
 <ul>
     <li>Dashboards</li>
-    <li>Student projects</li>
     <li>Portfolio trackers</li>
     <li>Alerts</li>
     <li>Learning FastAPI</li>
