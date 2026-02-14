@@ -187,21 +187,6 @@ GOOGL
     <li>Alerts</li>
     <li>Learning FastAPI</li>
 </ul>
-
-<hr>
-
-<h2>Possible Enhancements</h2>
-<ul>
-    <li>Redis caching</li>
-    <li>Historical price endpoint</li>
-    <li>Multiple stocks in one request</li>
-    <li>Email/SMS price alerts</li>
-    <li>PostgreSQL storage</li>
-    <li>JWT authentication</li>
-    <li>React frontend</li>
-    <li>Deployment on Render / Railway / VPS</li>
-</ul>
-
 <hr>
 
 <h2>License</h2>
